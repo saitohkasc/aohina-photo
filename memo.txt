@@ -1,0 +1,17 @@
+read apng from local
+
+read photos from local by choosing directory
+
+put photo
+overlay apng
+set timer
+move next photo
+
+
+
+config
+ - time
+ - apng
+ - directory
+ - save settings
+ 
